@@ -205,3 +205,6 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+/ice-cream-dataops/function_local_venvs
+build_info.test.yaml
